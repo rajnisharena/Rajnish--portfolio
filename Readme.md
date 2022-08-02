@@ -6,16 +6,16 @@
 
 ### Technologies
 - HTML 5 
-- CSS 3 (position classes without resposinve media query and third party framwork)
+- CSS 3 (position classes without resposinve media query and third party framework)
 
 ###  Html Layout creatively design for personal portfolio.
 #####   HTML layout design in basic html page.
  
 
 ### Time.
-#### 5 hours
+#### 9 hours
 
 ### Porject link
-[vercel link ]( )
+[vercel link ](https://rajnish-portfolio.vercel.app/ )
 
 ![badge](https://img.shields.io/badge/HTML-CSS-blue)
