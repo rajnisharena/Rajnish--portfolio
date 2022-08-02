@@ -1,0 +1,320 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster+Two:wght@700&family=Montserrat:wght@400;900&family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;1,400&family=PT+Serif:wght@700&family=Raleway:wght@300;500;600;700&family=Roboto+Condensed&family=Source+Sans+Pro:wght@300&display=swap');
+
+body {
+   margin: 0px;
+   padding: 0px;
+   background: #3c3c3c;
+   overflow: hidden;
+}
+a{
+   text-decoration: none;
+   color: #fff;
+   border: none;
+}
+
+a:hover{
+  opacity: 0.6;
+}
+.container {
+   margin: 0px auto;
+   padding: 0px;
+   width: 100vw;
+}
+
+.wrapper {
+   display: flex;
+   justify-content: space-evenly;
+   position: relative;
+
+}
+
+.col-left{
+  
+}
+.col-right{
+  position: relative;
+}
+
+
+.profile{
+   margin-left: 20%;
+   margin-top: 20px;
+   display: flex;
+   flex-direction: column;
+   text-align: center;
+  
+   margin-bottom: 95px;
+}
+.profile2{
+   margin: 10px;
+   flex-direction: column;
+   text-align: center;
+   margin-left: 20%;
+}
+.profile2 h1{
+   font-size: 24px;
+   margin: 10px 0px;
+   color: #fff;
+   font-family: 'Montserrat';
+   font-weight: 100;
+}
+.profile-photo{
+   border-radius: 50px;
+   height: auto;
+   text-align: center;
+}
+.profile-photo img{
+   border-radius: 50px;
+}
+.profile h1{
+   font-size: 24px;
+   margin: 10px 0px;
+   color: #fff;
+   font-family: 'Montserrat';
+   font-weight: 100;
+   font-size: 28px;
+}
+i{padding: 10px; font-size: 24px!important}
+.profile p {
+   font-family: 'Montserrat';
+   font-weight: 100;
+   font-size: 15px;
+   margin: 0px;
+   color: #fff;
+   text-align: left;
+   width: 60%;
+   margin-left: 30%;
+   /* margin-right: 27px; */
+}
+
+
+.social-icon{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+.rounded-corners-gradient-borders {
+   width: 624px;
+   border: double 2px transparent;
+   border-radius: 100%;
+   background-image: linear-gradient(#3c3c3c, #3c3c3c), linear-gradient(to top, #fff, #ac401a);
+   background-origin: border-box;
+   background-clip: content-box, border-box;
+   margin-left: -256px;
+   /* transform: rotate(359deg); */
+   /* margin-bottom: 56px; */
+ }
+
+ .rounded-corners-right {
+   width: 85vw;
+   border: double 2px transparent;
+   border-radius: 100%;
+   background-image: linear-gradient(#3c3c3c, #3c3c3c), linear-gradient(to top, #fff, #ac401a);
+   background-origin: border-box;
+   background-clip: content-box, border-box;
+   margin-right: -330px;
+   height: 93vh;
+  
+ }
+.box1{
+   position: absolute;
+   left: 99px;
+   top: 82px;
+}
+.box2{
+   position: absolute;
+   left: 301px;
+    top: 87px;
+}
+.box3{
+   position: absolute;
+   left: 26px;
+    top: 258px;
+}
+.box4{
+   position: absolute;
+   left: 230px;
+   top: 268px;
+}
+
+
+.box5{
+   position: absolute;
+   left: 432px;
+    top: 263px;
+}
+.box6{
+   position: absolute;
+   left: 636px;
+    top: 272px;
+}
+
+.box7{
+   position: absolute;
+   left: 503px;
+    top: 82px;
+}
+.box8{
+   position: absolute;
+   left: 705px;
+    top: 87px;
+}
+
+
+.box9{
+   position: absolute;
+   left: 432px;
+    top: 463px;
+}
+.box10{
+   position: absolute;
+   left: 636px;
+    top: 472px;
+}
+
+.box11{
+   position: absolute;
+   left: 906px;
+    top: 82px;
+}
+.box12{
+   position: absolute;
+   left: 840px;
+   top: 273px;
+}
+
+.box13{
+   position: absolute;
+   left: 222px;
+    top: 450px;
+}
+
+
+.box14{
+   position: absolute;
+   left:837px;;
+    top:460px
+}
+.box15{
+   position: absolute;
+   left:15px;
+    top: 440px;
+}
+
+.box-gradient{
+   border: double 1px transparent;
+   border-radius: 5px;
+   background-image: linear-gradient(#3c3c3c, #3c3c3c), linear-gradient(to top, #fff, #12a987);
+   background-origin: border-box;
+   background-clip: content-box, border-box;
+   position: relative;
+   
+}
+
+.box-gradient2{
+   border: double 1px transparent;
+   border-radius: 5px;
+   background-image: linear-gradient(#3c3c3c, #3c3c3c), linear-gradient(to top, #fff, #56a913);
+   background-origin: border-box;
+   background-clip: content-box, border-box;
+   position: relative;
+   
+}
+
+.box-gradient3{
+   border: double 1px transparent;
+   border-radius: 5px;
+   background-image: linear-gradient(#3c3c3c, #3c3c3c), linear-gradient(to top, #fff, #a91388);
+   background-origin: border-box;
+   background-clip: content-box, border-box;
+   position: relative;
+   
+}
+.box-gradient4{
+   border: double 1px transparent;
+   border-radius: 5px;
+   background-image: linear-gradient(#3c3c3c, #3c3c3c), linear-gradient(to top, #fff, #131aa9);
+   background-origin: border-box;
+   background-clip: content-box, border-box;
+   position: relative;
+   
+}
+.box-gradient5{
+   border: double 1px transparent;
+   border-radius: 5px;
+   background-image: linear-gradient(#3c3c3c, #3c3c3c), linear-gradient(to top, #fff, #a91327);
+   background-origin: border-box;
+   background-clip: content-box, border-box;
+   position: relative;
+}
+
+.box-gradient6{
+   border: double 1px transparent;
+   border-radius: 5px;
+   background-image: linear-gradient(#3c3c3c, #3c3c3c), linear-gradient(to top, #fff, #6b7b21);
+   background-origin: border-box;
+   background-clip: content-box, border-box;
+   position: relative;
+}
+
+.img{
+   width: 173px;
+   border-radius:14px;
+   padding: 11px 8px;
+}
+
+
+.button-group{
+   margin-top: -6px;
+   margin-bottom: 8px;
+   text-align: center;
+}
+.button1{
+   border-radius: 5px;
+   text-align: center;
+   font-size: 12px;
+   color: #fff;
+   background-color: #3c3c3c;
+   border: solid 1px rgb(89, 89, 89);
+   padding: 5px;
+   width: 45%;
+   cursor: pointer;
+   display: inline-block;
+}
+ .button1:hover{
+  opacity: 0.2;
+} 
+/* 
+.button1.color-1:hover {
+   background-image: linear-gradient(to right, #25aae1, #40e495, #30dd8a, #2bb673);
+   box-shadow: 0 1px 15px 0 rgba(49, 196, 190, 0.75);
+   cursor: pointer;
+} */
+ 
+.header-row{
+  position: absolute;
+  top: 18px;
+  left: 504px;
+
+}
+.header-row .header-text{
+   font-size: 16px;
+   color: #fff;
+   font-family: 'Raleway';
+}
+
+.header-row span {
+    content: "\2198";
+    color: white;
+    font-size: 33px;
+    position: absolute;
+    top: 20px;
+    left: 56px;
+
+}
+
+.links{
+   display: flex;
+   justify-content: start;
+   flex-direction: column;
+}
