@@ -23,7 +23,7 @@ a:hover{
 
 .wrapper {
    display: flex;
-   justify-content: space-evenly;
+   justify-content: center;
    position: relative;
 
 }
@@ -118,12 +118,12 @@ i{padding: 10px; font-size: 24px!important}
  }
 .box1{
    position: absolute;
-   left: 99px;
+   left: 29px;
    top: 82px;
 }
 .box2{
    position: absolute;
-   left: 301px;
+   left: 232px;
     top: 87px;
 }
 .box3{
@@ -151,12 +151,12 @@ i{padding: 10px; font-size: 24px!important}
 
 .box7{
    position: absolute;
-   left: 503px;
+   left: 435px;
     top: 82px;
 }
 .box8{
    position: absolute;
-   left: 705px;
+   left: 638px;
     top: 87px;
 }
 
@@ -174,7 +174,7 @@ i{padding: 10px; font-size: 24px!important}
 
 .box11{
    position: absolute;
-   left: 906px;
+   left: 839px;
     top: 82px;
 }
 .box12{
